@@ -231,7 +231,6 @@ nav {
 }
 
 .nav__link {
-  color: var(--lightPrimary);
   font-size: clamp(1.4rem, 2vw, 1.8rem);
   padding-block: 1.4rem var(--size-1-xl);
 }

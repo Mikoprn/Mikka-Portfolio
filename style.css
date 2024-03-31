@@ -77,8 +77,8 @@ body {
   --light: var(--dark);
   --dark: var(--light);
   --fw-light: 400;
-  background-color: var(--light);
-  color: var(--dark);
+  background-color: #e4e3e6;
+  color: #070a18;
 }
 
 h1,
@@ -478,6 +478,7 @@ nav {
   }
 
   .nav__link {
+    color: #edf1f7;
     text-decoration: var(--primary) underline;
     text-underline-offset: var(--size-xsmall);
   }
